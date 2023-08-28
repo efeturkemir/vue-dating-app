@@ -28,6 +28,9 @@ Welcome to the repository for our Realtime Dating Website built using Vue 3, Typ
 
 - **vue-advanced-cropper:** We've integrated the 'vue-advanced-cropper' npm package to facilitate easy and efficient profile picture cropping.
 
+- **Pinia:** We've used Pinia for state management, making our application's data flow smooth and efficient.
+
+
 ## Demo
 
 Check out our Realtime Dating Website in action: [Live Demo](https://myapp-4e79c.web.app/login)
