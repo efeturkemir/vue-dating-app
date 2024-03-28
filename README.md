@@ -1,6 +1,6 @@
 # Realtime Dating Website with Vue 3 and TypeScript
 
-Welcome to the repository for our Realtime Dating Website built using Vue 3, TypeScript, and Firebase services! This project allows users to match, chat in real-time, and create accounts for an engaging dating experience. We've leveraged Firebase Hosting, Firestore, Firebase Storage, and the 'vue-advanced-cropper' npm package to bring this project to life.
+Introducing our Realtime Dating Website, engineered with Vue 3 and TypeScript, utilizing Firebase's comprehensive services for an interactive matchmaking experience. Our platform ensures reliable real-time communication and streamlined user profile management.
 
 ![Dating App Screenshot](Screenshot_20230828_190548_Chrome.jpg)
 
